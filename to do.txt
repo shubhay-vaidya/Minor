@@ -1,2 +1,0 @@
-1. model box
-2. shadow property
